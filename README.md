@@ -48,7 +48,7 @@ Install dependencies:
 
 
 
-```bash
+- bash
 
 pip install fastapi uvicorn openai pydantic-settings python-dotenv
 
@@ -80,7 +80,7 @@ new\_chapter.txt
 
 
 
-```bash
+- bash
 
 python -m uvicorn app.main:app --reload
 
